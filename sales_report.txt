@@ -1,0 +1,35 @@
+pr001 channel3 24
+
+
+
+
+
+pr001 channel1 26
+pr003 channel2 33
+pr002 channel3 16
+pr001 channel1 24
+pr001 channel3 37
+pr001 channel3 26
+pr003 channel2 27
+pr002 channel1 33
+pr003 channel2 39
+pr002 channel3 40
+pr003 channel3 12
+pr002 channel2 37
+pr003 channel3 39
+pr003 channel1 19
+pr001 channel2 28
+pr001 channel1 31
+pr002 channel1 11
+pr002 channel3 15
+pr002 channel1 19
+pr001 channel1 16
+pr003 channel1 12
+pr002 channel1 38
+pr003 channel2 38
+pr002 channel3 19
+pr003 channel2 29
+pr003 channel3 19
+pr002 channel1 38
+pr003 channel3 11
+pr003 channel1 35
